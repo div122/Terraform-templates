@@ -43,3 +43,4 @@ terraform destroy # Destroy EC2 Instance
 
 rm -rf .terraform*   # Delete Terraform files 
 rm -rf terraform.tfstate*
+
